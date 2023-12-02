@@ -1,0 +1,13 @@
+{
+    "name": "aoc2023",
+    "description": "Advent of Code 2023",
+    "version": "0.1.1",
+    "repo": "phoenixpinpoint/aoc2023",
+    "keywords": ["aoc"],
+    "license": "MIT",
+    "src" : [],
+    "dependencies": {
+        "clibs/buffer": "*",
+        "kokke/tiny-regex-c": "*"
+    }
+}
